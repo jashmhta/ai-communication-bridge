@@ -26,13 +26,13 @@
 ## Part 4: Committing to GitHub
 - [x] Add all files to Git
 - [x] Commit changes
-- [ ] Push to GitHub
+- [x] Push to GitHub
 
 ## Part 5: Loading and Testing
-- [ ] Document how to load the extension in Chrome
-- [ ] Document how to configure the extension
-- [ ] Document how to test the extension
+- [x] Document how to load the extension in Chrome
+- [x] Document how to configure the extension
+- [x] Document how to test the extension
 
 ## Part 6: Customization and Troubleshooting
-- [ ] Document customization options
-- [ ] Document debugging procedures
+- [x] Document customization options
+- [x] Document debugging procedures
