@@ -24,8 +24,8 @@
 - [x] Create/download icon128.png
 
 ## Part 4: Committing to GitHub
-- [ ] Add all files to Git
-- [ ] Commit changes
+- [x] Add all files to Git
+- [x] Commit changes
 - [ ] Push to GitHub
 
 ## Part 5: Loading and Testing
